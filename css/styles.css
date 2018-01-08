@@ -1,0 +1,305 @@
+.container{
+	width: 90%;
+}
+
+.menu {
+	background: rgb(44,62,80);
+	padding: 60px;
+	color:white;
+	font-size: 20px;
+	text-transform: uppercase;
+	position: fixed;	
+}
+.vert{
+	width: 2%;
+	margin: 1px auto;
+	height: 60px;
+	border-right: 2px solid white;
+}
+.vert-s{
+	height: 25px;
+}
+
+.detail{
+	text-align: center;
+	font-size: 20px;
+	color:white;
+}
+
+.square{
+	height: 300px;
+	width:300px;
+	border: solid white 1px; 
+	margin-left: 37%;
+	background-color: rgb(52,73,94);
+}
+
+.glo{
+	text-align: right;
+	color: white;
+	padding-right: 8px;
+}
+.star{
+	text-align: right;
+	color: rgb(112,177,203);
+	padding-right: 24px;
+}
+
+.expertise{
+	text-align: left;
+	color: white;
+	padding-left: 150px;
+}
+.profile-pics{
+	margin-bottom: 40px;
+}
+
+.kodehauz{
+	text-align: center;
+	color: white;
+}
+
+.square-white{
+	height: 100px;
+	width:300px;
+	border: solid white 1px; 
+	margin-top: 0px;
+	margin-left: 37%;
+	background-color: white;
+
+}
+
+.flag{
+	 display:inline-block;
+	 margin-right:10px; 
+	 color:white;
+}
+
+.picture{
+	 margin-top: 100px;
+}
+
+
+
+.first{
+	 display:inline-block;
+	 margin-right:10px;
+	 color:white; 
+}
+
+.year{
+	 display:inline-block;
+	 margin-right:10px;
+	 color:white; 
+}
+
+
+.skill1{
+	margin-left:50px;
+}
+
+
+
+h4{
+	color:white;
+	margin-top: 100px;
+}
+	
+p{
+	color:white;
+	margin-top: 40px;
+	font-size: 20px;
+}
+
+.vertical-short{
+	height:20px;
+	width: 1px;
+	border:solid white 1px;
+	margin-left: 100px;
+	
+}
+
+.vertical-long{
+	height:60px;
+	width: 1px;
+	border:solid white 1px;
+	margin-left: 100px;
+
+
+}
+.book{
+	background: rgb(239,139,33);
+	height: 80px;
+	width:250px;
+	margin-left: 24px;
+	margin-top: 8px;
+	border: solid white 1px; 	
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	padding: 24px;
+	text-transform: uppercase;
+}
+/*.circle {
+      width: 200px;
+      height: 200px;
+      -webkit-border-radius: 100px;
+      -moz-border-radius: 100px;
+      border-radius: 100px;
+      background: rgb(44,62,80);
+     margin-left: 600px;
+     margin-top: 100px;
+    
+     }*/
+  .avatar{
+  	margin-left: 40%;
+  	padding-top: 100px;
+  
+  }
+
+ .name{
+
+		font-size: 40px;
+		color: white;
+		margin-top: 20px;
+		text-align: center;
+     }
+.wrapper {
+	width: 100%;
+}
+
+ .my-name{
+ 	/*height: 1000px;*/
+
+ }
+
+
+
+  .my-name{
+ 	background: rgb(24,188,156);
+
+ }
+
+ .about-me{
+ 	background: rgb(52,73,94);
+ 	height: 1000px;
+ }
+
+ .Portfolio1{
+ 	height: 300px;
+ 	background:grey;
+ }
+
+ .Portfolio2{
+ 	height: 300px;
+ 	background:red;
+ }
+
+ .Portfolio3{
+ 	height: 300px;
+ 	background:green;
+ }
+
+
+ .Portfolio4{
+ 	height: 300px;
+ 	background:yellow;
+ }
+
+ .Portfolio5{
+ 	height: 300px;
+ 	background:white;
+ }
+
+ .Portfolio6{
+ 	height: 300px;
+ 	background:orange;
+ }
+
+ .my-portfolio{
+ 	font-size: 40px;
+ 	text-align: center;
+ 	margin-top: 16px;
+ 	color:rgb(44,62,80);
+
+ }
+
+  .contact{
+ 	font-size: 40px;
+ 	text-align: center;
+ 	margin-top: 16px;
+ 	color: rgb(44,62,80);
+
+ }
+ .line { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 3px;
+    width:200px;
+}
+
+.line2 { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    
+    border-width: 3px;
+    width:200px;
+}
+
+.submit{
+	align-items:center;
+	margin-bottom: 16px;
+
+
+}
+
+.footer{
+		background: rgb(44,62,80);
+		font-size: 20px;
+		margin-top: 40px;
+		margin-bottom: 0;
+}
+
+.footer2{
+		background: rgb(35,49,64);
+		margin: 0;
+}
+
+.copyright{
+	font-size: 14px;
+	text-align: center;
+	
+	color: white;
+}
+
+.main{
+	margin-left: 100px;
+	font-size: 30px;
+}
+
+.find-me{
+
+}
+
+
+.available{
+	margin-left: 150px;
+
+}
+
+
+.sub{
+	font-size: 16px;
+	color: white;
+}
+
+.foot{
+	margin-left: 150px;
+}
